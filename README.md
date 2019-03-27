@@ -1,4 +1,4 @@
-# A transiting exocomet detected in broadband light by TESS in the $\beta$ Pictoris system
+# A transiting exocomet detected in broadband light by TESS in the β Pictoris system
 
 This repository containts various files, which were used for the paper Zieba et al. (2019) (link).
 
