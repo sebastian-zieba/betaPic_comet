@@ -5,6 +5,12 @@ This repository containts various files, which were used for the paper Zieba et 
 This repository containts the following folders:
 
 
+* [modelling](https://github.com/sebastian-zieba/betaPic_comet/tree/master/modelling)
+
+Contains the Jupyter Notebook with was used for the MCMC routine.
+
+
+
 * [mast_files](https://github.com/sebastian-zieba/betaPic_comet/tree/master/mast_files)
 
 Contains the light curve and target pixel files of beta Pictoris for Sector 4 through 7 downloaded from the MAST archive. 
@@ -27,9 +33,6 @@ Contains three plots which also can be found in the publication and two Jupyter 
 * Bullet list item 2
 
 
-* [betaPic_movies](https://github.com/sebastian-zieba/betaPic_comet/tree/master/betaPic_movies)
-
-Contains four short (each ~1min and ~10MB) movies of beta Pictoris created by cutting out a 60x60 pixel area around the star using a jupyter notebook (which also can be found there). The mid-exposure time is marked just above the animation in BTJD (BJD - 2457000). Every movie shows the observations of beta Pic for a specific sector. No background objects (asteroids, ...) are visible before, during or after the dimming events. 
 
 
 * [frequency_analysis](https://github.com/sebastian-zieba/betaPic_comet/tree/master/frequency_analysis)
@@ -37,9 +40,10 @@ Contains four short (each ~1min and ~10MB) movies of beta Pictoris created by cu
 Contains a Jupyter Notebook which was used in order to create two plots visible in the publication.
 For the frequency analysis we used the software package [Period04](https://www.univie.ac.at/tops/Period04/) and the python pachage [SMURFS](https://github.com/MarcoMuellner/SMURFS)
 
-* [modelling](https://github.com/sebastian-zieba/betaPic_comet/tree/master/modelling)
 
-Contains the Jupyter Notebook with was used for the MCMC routine.
+* [betaPic_movies](https://github.com/sebastian-zieba/betaPic_comet/tree/master/betaPic_movies)
+
+Contains four short (each ~1min and ~10MB) movies of beta Pictoris created by cutting out a 60x60 pixel area around the star using a jupyter notebook (which also can be found there). The mid-exposure time is marked just above the animation in BTJD (BJD - 2457000). Every movie shows the observations of beta Pic for a specific sector. No background objects (asteroids, ...) are visible before, during or after the dimming events. 
 
 
 
