@@ -22,7 +22,7 @@ Contains four short (each ~1min and ~10MB) movies of beta Pictoris created by cu
 
 
 
-##License
+## License
 
 The code is released under a MIT licence.
 
