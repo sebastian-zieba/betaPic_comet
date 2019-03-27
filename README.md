@@ -12,7 +12,11 @@ Contains the light curve and target pixel files of beta Pictoris for Sector 4 th
 
 * [lightcurve](https://github.com/sebastian-zieba/betaPic_comet/tree/master/lightcurve)
 
-Contains a jupyter notebook...
+Contains three plots which also can be found in the publication and two Jupyter Notebooks: 
+
+- `betaPic_lightkurve` analyses beta Pictoris using the `lightkurve` package.
+
+- `construction_of_the_lightcurve.ipynb` uses the files in [mast_files](https://github.com/sebastian-zieba/betaPic_comet/tree/master/mast_files). We also take a look at the closest stars using the `lightkurve` package. 
 
 
 * [betaPic_movies](https://github.com/sebastian-zieba/betaPic_comet/tree/master/betaPic_movies)
@@ -22,7 +26,7 @@ Contains four short (each ~1min and ~10MB) movies of beta Pictoris created by cu
 
 * [frequency_analysis](https://github.com/sebastian-zieba/betaPic_comet/tree/master/frequency_analysis)
 
-Contains ....
+Contains a Jupyter Notebook ...
 
 * [modelling](https://github.com/sebastian-zieba/betaPic_comet/tree/master/modelling)
 
@@ -32,7 +36,7 @@ Contains ....
 
 ## Dependencies
 
-You will need the python packages `astropy` ... 
+You will need the python packages `numpy`, `matplotlib`,  `astropy` ... 
 
 
 ## Quick start
