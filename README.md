@@ -2,7 +2,7 @@
 
 ## Contents
 
-This repository containts various files, which were used for the paper Zieba et al. (2019).
+This repository containts various files, which were used for the paper [Zieba et al. (2019)](https://arxiv.org/abs/1903.11071).
 
 This repository containts the following folders:
 
